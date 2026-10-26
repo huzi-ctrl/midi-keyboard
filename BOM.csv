@@ -1,0 +1,15 @@
+Item,Qty,Supplier,Cost/item,Total Cost,link
+Waveshare ESP32-S3-Zero Mini Dev Board (U1),1,Amazon UK (Waveshare Store),£11.51 ($14.96),£11.51 ($14.96),https://www.amazon.co.uk/dp/B0C8V7X1JS
+Gateron Brown SMD Switch - Pack of 10 Switches (SW6-SW14),1,Mechbox UK,£2.24 ($2.91),£2.24 ($2.91),https://mechbox.co.uk/
+Bourns PAC18R1-41D28F Rotary Encoder (SW4 - Order Code 3766752),1,Farnell UK,£3.10 ($4.03),£3.10 ($4.03),https://uk.farnell.com/bourns/pac18r1-41d28f/rotary-encoder-mechanical-abs/dp/3766752
+"NXP PCF8574AT/3,518 I2C I/O Expander (U2 - C86832)",1,LCSC,$3.0343,$3.03,https://www.lcsc.com/product-detail/C86832.html
+"OPSCO SK6812MINI-E Addressable SMD RGB LED (D1-D5, D15-D25 - C5149201)",20,LCSC,$0.081,$1.62,https://www.lcsc.com/product-detail/C5149201.html
+HCTL HC-ST-003-008-J (C2845341),10,LCSC,$0.31,$3.10,https://www.lcsc.com/product-detail/C2845341.html
+Samsung CL05B104KB54PNC 100nF 50V Ceramic Capacitor (C2-C17 - C307331),100,LCSC,$0.0095,$0.95,https://www.lcsc.com/product-detail/C307331.html
+Lelon VEH101M1CTR-0605 100uF 16V Aluminum Electrolytic Cap (C1 - C134742),10,LCSC,$0.0747,$0.75,https://www.lcsc.com/product-detail/C134742.html
+"ROHM ESR25JZPJ823 Thick Film Resistor (R1, R2 - C510075)",10,LCSC,$0.0416,$0.42,https://www.lcsc.com/product-detail/C510075.html
+ROHM UDZVFHTE-176.2B Diode (R3/Diodes - C510052),10,LCSC,$0.0623,$0.62,https://www.lcsc.com/product-detail/C510052.html
+Huaneng HMB1275-12B Buzzer (BZ1 - C96094),5,LCSC,$0.3193,$1.60,https://www.lcsc.com/product-detail/C96094.html
+"Nexperia PMEG3010EJ,115 Diode (RV1, RV2 slot)",2,LCSC,$0.1186,$0.24,https://www.lcsc.com/
+Estimated total shipping (LCSC $6.42 Ship + $3.00 Handling + Mechbox £3.49 + Amazon Free + Farnell £15.95),1,LCSC / Mechbox UK / Amazon UK / Farnell UK,$9.42 + £19.44,$9.42 + £19.44 (~$34.69),
+Grand Total (All Carts Combined),,,,$21.75 + £36.29 (~$68.93),
