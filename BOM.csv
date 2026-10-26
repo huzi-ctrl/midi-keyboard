@@ -1,15 +1,16 @@
-Item,Purpose,Qty,Price,Total Cost,Supplier,Link
-Waveshare ESP32-S3-Zero Mini Dev Board (U1),Main microcontroller with USB-C and capacitive touch inputs,1,14.96,14.96,Amazon UK,https://www.amazon.co.uk/dp/B0C8V7X1JS
-Gateron Brown SMD Switch - Pack of 10 Switches (SW6-SW14),9 mechanical pushbutton switches for the 3x3 keypad matrix,1,2.91,2.91,Mechbox UK,https://mechbox.co.uk/
-Bourns PAC18R1-41D28F Rotary Encoder (SW4),Rotary encoder for rotary knob control and push switch,1,4.03,4.03,Farnell UK,https://uk.farnell.com/bourns/pac18r1-41d28f/rotary-encoder-mechanical-abs/dp/3766752
-"NXP PCF8574AT/3,518 I2C I/O Expander (U2 - C86832)",I2C GPIO expander to read the 3x3 switch matrix and encoder button,1,3.03,3.03,LCSC,https://www.lcsc.com/product-detail/C86832.html
-"OPSCO SK6812MINI-E Addressable SMD RGB LED (D1-D5, D15-D25 - C5149201)",16 per-key and status addressable RGB LEDs,20,0.081,1.62,LCSC,https://www.lcsc.com/product-detail/C5149201.html
-HCTL HC-ST-003-008-J (C2845341),Matrix switching component,10,0.31,3.1,LCSC,https://www.lcsc.com/product-detail/C2845341.html
-Samsung CL05B104KB54PNC 100nF 50V Ceramic Capacitor (C2-C17 - C307331),100nF decoupling capacitors for the 16 SK6812MINI-E LEDs,100,0.0095,0.95,LCSC,https://www.lcsc.com/product-detail/C307331.html
-Lelon VEH101M1CTR-0605 100uF 16V Aluminum Electrolytic Cap (C1 - C134742),Bulk power rail smoothing capacitor for the +5V LED supply,10,0.075,0.75,LCSC,https://www.lcsc.com/product-detail/C134742.html
-"ROHM ESR25JZPJ823 Thick Film Resistor (R1, R2 - C510075)",Pull-up resistors for the I2C SDA and SCL lines,10,0.042,0.42,LCSC,https://www.lcsc.com/product-detail/C510075.html
-ROHM UDZVFHTE-176.2B Diode (R3/Diodes - C510052),Series current-limiting / protection component,10,0.062,0.62,LCSC,https://www.lcsc.com/product-detail/C510052.html
-Huaneng HMB1275-12B Buzzer (BZ1 - C96094),Onboard audio buzzer driven by ESP32 RX pin,5,0.32,1.6,LCSC,https://www.lcsc.com/product-detail/C96094.html
-"Nexperia PMEG3010EJ,115 Diode (RV1, RV2 slot)",Diodes / fader circuit components,2,0.12,0.24,LCSC,https://www.lcsc.com/
-"Custom 2-Layer PCB Fabrication (5 pcs, includes J1 Capacitive Touch Pads)",Main circuit board with integrated 7-key capacitive touch piano pads,1,2.0,2.0,JLCPCB,https://jlcpcb.com/
-Estimated total shipping (LCSC + Mechbox UK + Amazon UK + Farnell UK),Combined shipping and handling fees across all suppliers,1,34.69,34.69,LCSC / Mechbox UK / Amazon UK / Farnell UK,https://www.lcsc.com/
+Item,Qty,Supplier,Cost/item,Total Cost,link
+Waveshare ESP32-S3-Zero Mini Dev Board (U1),1,Amazon UK,$14.96,$14.96,https://www.amazon.co.uk/dp/B0C8V7X1JS
+Gateron Brown SMD Switch - Pack of 10 Switches (SW6-SW14),1,Mechbox UK,$2.91,$2.91,https://mechbox.co.uk/
+Bourns PAC18R1-41D28F Rotary Encoder (SW4),1,Farnell UK,$4.03,$4.03,https://uk.farnell.com/bourns/pac18r1-41d28f/rotary-encoder-mechanical-abs/dp/3766752
+"NXP PCF8574AT/3,518 I2C I/O Expander (U2 - C86832)",1,LCSC,$3.03,$3.03,https://www.lcsc.com/product-detail/C86832.html
+"OPSCO SK6812MINI-E Addressable SMD RGB LED (D1-D5, D15-D25 - C5149201)",20,LCSC,$0.08,$1.60,https://www.lcsc.com/product-detail/C5149201.html
+HCTL HC-ST-003-008-J (C2845341),10,LCSC,$0.31,$3.10,https://www.lcsc.com/product-detail/C2845341.html
+Samsung CL05B104KB54PNC 100nF 50V Ceramic Capacitor (C2-C17 - C307331),100,LCSC,$0.01,$1.00,https://www.lcsc.com/product-detail/C307331.html
+Lelon VEH101M1CTR-0605 100uF 16V Aluminum Electrolytic Cap (C1 - C134742),10,LCSC,$0.08,$0.80,https://www.lcsc.com/product-detail/C134742.html
+"ROHM ESR25JZPJ823 Thick Film Resistor (R1, R2 - C510075)",10,LCSC,$0.04,$0.40,https://www.lcsc.com/product-detail/C510075.html
+ROHM UDZVFHTE-176.2B Diode (R3/Diodes - C510052),10,LCSC,$0.06,$0.60,https://www.lcsc.com/product-detail/C510052.html
+Huaneng HMB1275-12B Buzzer (BZ1 - C96094),5,LCSC,$0.32,$1.60,https://www.lcsc.com/product-detail/C96094.html
+"Nexperia PMEG3010EJ,115 Diode (RV1, RV2 slot)",2,LCSC,$0.12,$0.24,https://www.lcsc.com/
+"Custom 2-Layer PCB Fabrication (5 pcs, includes J1 Capacitive Touch Pads)",1,JLCPCB,$2.00,$2.00,https://jlcpcb.com/
+Estimated total shipping (LCSC + Mechbox UK + Amazon UK + Farnell UK),1,LCSC / Mechbox UK / Amazon UK / Farnell UK,$34.69,$34.69,https://www.lcsc.com/
+Estimated total shipping,1,,,$0.00,
